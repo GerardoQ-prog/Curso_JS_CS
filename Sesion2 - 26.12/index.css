@@ -1,0 +1,9 @@
+.nav{
+    /* display:flex; */
+    color:black;
+    text-align: center;
+}
+.nav__title{
+    font-size: 48px;
+    text-shadow: 2px 2px 8px #5c5c5c;
+}
